@@ -149,6 +149,7 @@ declare namespace MaterialUi {
     export import ToolbarTitle = __MaterialUi.Toolbar.ToolbarTitle;
     export import ToolbarTitleProps = __MaterialUi.Toolbar.ToolbarTitleProps;
     export import MuiThemeProvider = __MaterialUi.Styles.MuiThemeProvider;
+    export import Styles = __MaterialUi.Styles;
 }
 
 declare namespace __MaterialUi {
